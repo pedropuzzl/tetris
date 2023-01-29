@@ -2248,6 +2248,42 @@
     "-sizing-max": {
       "value": "80",
       "type": "sizing"
+    },
+    "-border-radius-none": {
+      "value": "0",
+      "type": "borderRadius"
+    },
+    "-border-radius-sm": {
+      "value": "8",
+      "type": "borderRadius"
+    },
+    "-border-radius-md": {
+      "value": "16",
+      "type": "borderRadius"
+    },
+    "-border-radius-lg": {
+      "value": "24",
+      "type": "borderRadius"
+    },
+    "-border-radius-circular": {
+      "value": "99999",
+      "type": "borderRadius"
+    },
+    "-border-width-hairline": {
+      "value": "1",
+      "type": "borderWidth"
+    },
+    "-border-width-thin": {
+      "value": "2",
+      "type": "borderWidth"
+    },
+    "-border-width-thick": {
+      "value": "4",
+      "type": "borderWidth"
+    },
+    "-border-width-heavy": {
+      "value": "8",
+      "type": "borderWidth"
     }
   },
   "$themes": [],
