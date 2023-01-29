@@ -32,15 +32,15 @@ Depois de validada a ideia, crie o componente no Figma com todas suas variaçõe
 
 Sempre utilizar os componentes e variantes do Figma, para poder escalar o projeto de maneira sólida.
 
-	4. ATUALIZAÇÃO DA BIBLIOTECA
+4. ATUALIZAÇÃO DA BIBLIOTECA
 Quando estiver validado a biblioteca deve ser atualizada com o novo componente para que todos   do time de design possam usar. Depois disso, preencha nas telas de Handoff os componentes criados. 
 
 Lembre-se de sempre transformar as bases das teas em componentes também. Telas também têm variações.
 
-	5. DESENVOLVIMENTO
+5. DESENVOLVIMENTO
 Nessa etapa o desenvolvedor responsável irá codar o componente e adicioná-lo na biblioteca Flutter ou Javascript para ser usado nos projetos. Consulte com o time dev envolvido qual a tecnologia utilizada.
 
-	6. DOCUMENTAÇÃO
+6. DOCUMENTAÇÃO
 A documentação deve ser feita aqui no ClickUp e deve conter informações sobre o status do componente nas plataformas, uso, suas variações e tamanhos, boas práticas, entre outros. 
 
 Além da documentação dos componentes, lembre-se de documentar o funcionamento do sistema através de fluxos descritos como se fossem um guia de utilização, tanto para desenvolvedores quanto para o cliente final.
