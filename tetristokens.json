@@ -2272,6 +2272,14 @@
     "-spacing-max": {
       "value": "40 * {-spacing-base}",
       "type": "spacing"
+    },
+    "-token-test": {
+      "value": {
+        "color": "{AMBER.-color-amber-300}",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
     }
   },
   "$themes": [],
